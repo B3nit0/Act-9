@@ -1,9 +1,17 @@
 # Act 9
+
+
+
  Juego de cartas
+ 
+ 
+ 
+ 
 public class Main
+
 {
-	public static void main(String[] args) {
-	  private final String palo;
+    public static void main(String[] args) {
+      private final String palo;
       private final String color;
       private final String valor;
 
